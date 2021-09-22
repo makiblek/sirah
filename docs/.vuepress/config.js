@@ -4,7 +4,7 @@ module.exports = {
         nav: [
             {
             text: 'sirah nabwiy',
-            ariaLabek: 'Language Menu',
+            ariaLabel: 'Language Menu',
             items: [
         	    { text: 'kelahiran dan masa kecil', link: '/sirah/kecil/kecil.md' },
         	    { text: 'remaja', link: '/sirah/remaja/remaja.md' },
