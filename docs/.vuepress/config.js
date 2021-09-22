@@ -7,7 +7,7 @@ module.exports = {
             ariaLabek: 'Language Menu',
             items: [
         	    { text: 'kelahiran dan masa kecil', link: '/sirah/kecil/kecil.md' },
-        	    { text: 'remaja', link: '/sirah/remaja/' },
+        	    { text: 'remaja', link: '/sirah/remaja/remaja.md' },
         	    { text: 'pernikahan', link: '/sirah/pernikahan/' },
         	    { text: 'kenabian', link: '/sirah//kenabian' },
         	   ]
